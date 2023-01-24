@@ -22,7 +22,7 @@
   display: flex;
   position: relative;
   align-items: center;
-  overflow: hidden
+  overflow: hidden;
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
