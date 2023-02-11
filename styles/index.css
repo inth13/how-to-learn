@@ -40,3 +40,10 @@
 @import url(../pages/table/__text/table__text.css);
 @import url(../pages/table/__text/_theme/table__text_theme_dark.css);
 
+@import url(../pages/two-columns/two-columns.css);
+@import url(../pages/two-columns/__brief/two-columns__brief.css);
+@import url(../pages/two-columns/__main-text/two-columns__main-text.css);
+@import url(../pages/two-columns/__paragraph/two-columns__paragraph.css);
+@import url(../pages/two-columns/__span-accent/two-columns__span-accent.css);
+
+

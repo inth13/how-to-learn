@@ -15,6 +15,7 @@
   height: 32px;
 }
 
+
 .logo_place_header {
   background-image: url("../images/logo_place_header.svg");
   left: 64px;
@@ -26,45 +27,4 @@
   background-image: url("../images/logo_place_footer.svg");
 }
 
-.two-columns {
-  display: flex;
-  justify-content: space-between;
-  width: 80%;
-  margin: 0 auto;
-}
 
-.two-columns__main-text {
-  width: 80%;
-  min-width: 784px;
-}
-
-.two-columns__paragraph:last-of-type {
-  margin-bottom: 0;
-}
-
-.two-columns__paragraph {
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-  margin-top: 0;
-  padding-top: 0;
-  margin-bottom: 30px;
-}
-
-.two-columns__span-accent {
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: 600;
-}
-
-.two-columns__brief {
-  line-height: 1.2;
-  font-size: 18px;
-  font-weight: normal;
-  color: #2f80ed;
-  max-width: 175px;
-  width: 100%;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-top: 0;
-}
