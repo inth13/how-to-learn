@@ -46,4 +46,6 @@
 @import url(../pages/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../pages/two-columns/__span-accent/two-columns__span-accent.css);
 
-
+@import url(../pages/logo/logo.css);
+@import url(../pages/logo/_place/logo_place_footer.css);
+@import url(../pages/logo/_place/logo_place_header.css);

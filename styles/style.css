@@ -9,22 +9,4 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-/* и элемента с модификатором вида ключ-значение */
-.logo {
-  width: 228px;
-  height: 32px;
-}
-
-
-.logo_place_header {
-  background-image: url("../images/logo_place_header.svg");
-  left: 64px;
-  top: 30px;
-  position: absolute;
-}
-
-.logo_place_footer {
-  background-image: url("../images/logo_place_footer.svg");
-}
-
 
