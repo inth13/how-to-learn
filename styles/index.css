@@ -8,3 +8,23 @@
 @import url(../pages/description/description.css);
 
 @import url(../pages/digits/digits.css);
+
+@import url(../pages/feynman/feynman.css);
+@import url(../pages/feynman/__link/feynman__link.css);
+@import url(../pages/feynman/__subtitle/feynman__subtittle.css);
+@import url(../pages/feynman/__title/feynman__subtitle.css);
+
+@import url(../pages/kaufman/kaufman.css);
+@import url(../pages/kaufman/__triangle/kaufman__triangle.css);
+
+@import url(../pages/footer/footer.css);
+@import url(../pages/footer/__author/footer__author.css);
+@import url(../pages/footer/__column/_content/footer__column_content_copyright.css);
+@import url(../pages/footer/__column/_content/footer__column_content_info.css);
+@import url(../pages/footer/__column-heading/footer__column-heading.css);
+@import url(../pages/footer/__column-link/footer__column-link.css);
+@import url(../pages/footer/__column-links/footer__column-links.css);
+@import url(../pages/footer/__columns/footer__columns.css);
+@import url(../pages/footer/__social-icon/footer__social-icon.css);
+
+
