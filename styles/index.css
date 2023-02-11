@@ -31,3 +31,12 @@
 @import url(../pages/section-title/_theme/section-title_theme_dark.css);
 @import url(../pages/section-subtitle/section-subtitle.css);
 @import url(../pages/section-subtitle/_theme/section-subtitle_theme_dark.css);
+
+@import url(../pages/table/table.css);
+@import url(../pages/table/__cell/table__cell.css);
+@import url(../pages/table/__cell/_theme/table__cell_theme_dark.css);
+@import url(../pages/table/__heading/table__heading.css);
+@import url(../pages/table/__heading/_theme/table__heading_theme_dark.css);
+@import url(../pages/table/__text/table__text.css);
+@import url(../pages/table/__text/_theme/table__text_theme_dark.css);
+
