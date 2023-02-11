@@ -27,4 +27,7 @@
 @import url(../pages/footer/__columns/footer__columns.css);
 @import url(../pages/footer/__social-icon/footer__social-icon.css);
 
-
+@import url(../pages/section-title/section-title.css);
+@import url(../pages/section-title/_theme/section-title_theme_dark.css);
+@import url(../pages/section-subtitle/section-subtitle.css);
+@import url(../pages/section-subtitle/_theme/section-subtitle_theme_dark.css);
