@@ -10,9 +10,6 @@
 }
 
 
-
-
-
 /* и элемента с модификатором вида ключ-значение */
 .logo {
   width: 228px;
@@ -28,12 +25,6 @@
 
 .logo_place_footer {
   background-image: url("../images/logo_place_footer.svg");
-}
-
-
-.description {
-  margin: 100px 0 0;
-  padding: 0;
 }
 
 .two-columns {
